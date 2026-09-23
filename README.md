@@ -2,8 +2,6 @@
 
 ### About me
 
-I like public transportation 🚄, architecture and urbanism 🏙️, plants 🌷 and computers 🖥️.
+I like public transportation 🚄, architecture and urbanism 🏙️, plants 🌷, photography 📷 and computers 🖥️.
 
-### Computer Science
-
-I'm interested in many subjects such as: infrastructure, the JVM, low-level programming and mobile development
+As far as computer, I'm interested in many subjects such as: infrastructure, data science, the JVM, and mobile development!
